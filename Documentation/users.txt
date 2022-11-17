@@ -1,0 +1,3 @@
+ID;username;password;watchedMovies;savedMovies;watchedSeries;savedSeries;
+
+Admin;1234
